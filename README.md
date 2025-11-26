@@ -66,7 +66,8 @@ Você pode encontrar o app na App Store [aqui](https://apps.apple.com/us/app/pet
 ## Telas do aplicativo Pet+
 :large_blue_circle: Login e página inicial
 
-![login](https://github.com/RodrigoMagalskiDev/Portfolio/assets/108557225/ca58638b-4e79-459e-a7a3-fa0c018b8d5a) ![home](https://github.com/RodrigoMagalskiDev/Portfolio/assets/108557225/34594160-8aa6-4612-9fcc-1968baf76d58) ![drawer](https://github.com/RodrigoMagalskiDev/Portfolio/assets/108557225/690c262d-4ff4-4ed2-adce-1064e1a5ae1d)
+![login](<img width="1080" height="1920" alt="Screenshot_1764117197" src="https://github.com/user-attachments/assets/18aebacb-81da-4c6c-9e39-ea715781d532" />
+) ![home](<img width="1080" height="1920" alt="Screenshot_1764115761" src="https://github.com/user-attachments/assets/70685376-21d9-43bb-915b-222d344cbefd" />)
 
 :large_blue_circle: Agendamentos
 
